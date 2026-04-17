@@ -17,3 +17,9 @@ To analyze mortality rate trends across regions, age groups, and years.
 
 ## Status
 Project initiated and planning completed.
+
+## Progress
+- 8 April: Project Planning completed
+- 10 April: Dataset created and uploaded to GitHub
+
+
