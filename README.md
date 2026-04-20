@@ -46,7 +46,7 @@ Data preparation phase completed. Project is ready for exploratory data analysis
 ---
 
 ## 🔗 Repository Link
-(Add your GitHub repo link here)
-https://github.com/yadav1lakhan-cell/mortality-rate-trend-analysis/edit/main/README.md
+https://github.com/yadav1lakhan-cell/mortality-rate-trend-analysis/tree/main
+
 
 
