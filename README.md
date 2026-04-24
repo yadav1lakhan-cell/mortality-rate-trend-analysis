@@ -1,4 +1,6 @@
-# Mortality Rate Trend Analysis
+# 📊 Mortality Rate Trend Analysis
+
+---
 
 ## 📌 Objective
 To analyze mortality rate trends across regions, age groups, gender, and years to identify patterns and key insights.
@@ -37,11 +39,13 @@ The dataset contains 200 records with 15 columns including:
 - **10 April:** Dataset created and uploaded to GitHub repository  
 - **13 April:** Environment setup completed and dataset successfully loaded using Python  
 - **17 April:** Data cleaning performed (handled missing values, removed duplicates, and created Mortality Rate column)  
+- **24 April:** Exploratory Data Analysis (EDA) completed with visualizations and key insights  
 
 ---
 
 ## 📈 Current Status
-Data preparation phase completed. Project is ready for exploratory data analysis and visualization.
+Data preparation and exploratory data analysis completed.  
+The project is now ready for **dashboard development and final insights generation**.
 
 ---
 
