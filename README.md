@@ -39,7 +39,8 @@ The dataset contains 200 records with 15 columns including:
 - **10 April:** Dataset created and uploaded to GitHub repository  
 - **13 April:** Environment setup completed and dataset successfully loaded using Python  
 - **17 April:** Data cleaning performed (handled missing values, removed duplicates, and created Mortality Rate column)  
-- **24 April:** Exploratory Data Analysis (EDA) completed with visualizations and key insights  
+- **24 April:** Exploratory Data Analysis (EDA) completed with visualizations and key insights
+- **27 April:** Dashboard Creation. 
 
 ---
 
